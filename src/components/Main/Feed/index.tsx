@@ -1,12 +1,12 @@
 import React from 'react';
-import './style.css';
+import './Feed.css';
 
 import Post from './Post';
 
 export default function Feed() {
 
   return (
-    <div className="container">
+    <div className="feed-container">
       <Post />
     </div>
   );

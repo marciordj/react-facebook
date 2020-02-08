@@ -7,8 +7,10 @@ import Main from './Main';
 const App = () => {
   return (
     <div className="App">
-      <section className="main">
+      <section className="header">
         <Header />
+      </section>
+      <section>
         <Main />
       </section>
     </div>
