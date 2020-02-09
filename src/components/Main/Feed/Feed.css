@@ -1,9 +1,0 @@
-.main > .feed-container {
-    width: calc(100% - 350px);
-    background-color: #F5F6FB;
-}
-
-.main > .feed-container > .post-container {
-    width: 72%;
-    margin: 50px auto;
-}
