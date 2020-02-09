@@ -1,4 +1,5 @@
 import React from 'react';
+import './sectionMain.css';
 
 import Feed from './Feed';
 

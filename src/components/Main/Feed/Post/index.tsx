@@ -1,4 +1,5 @@
 import React from 'react';
+import './post.css';
 
 import PostHeader from './PostHeader';
 import PostContent from './PostContent';
