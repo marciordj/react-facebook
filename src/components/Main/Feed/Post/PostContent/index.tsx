@@ -13,7 +13,7 @@ function PostContent() {
       </div>
       <div className="post-image">
         <div className="post-image-board">
-          <img src={PostImage} alt="Profile Image" />
+          <img src={PostImage} alt="Profile img" />
         </div>
       </div>
     </>

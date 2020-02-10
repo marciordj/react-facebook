@@ -12,7 +12,7 @@ function Typing() {
         <span className="dot"></span>
       </div>
       <div className="image-board">
-        <img src={Person1} alt="Profile Image" />
+        <img src={Person1} alt="Profile img" />
       </div>
       <div className="profile-name">
         <span>Amarilda Curvada</span>

@@ -8,7 +8,7 @@ function PostComments() {
       <div className="comment">
         <div className="comment-profile-image">
           <div className="comment-image-board">
-            <img src={Person3} alt="Profile Image" />
+            <img src={Person3} alt="profile img" />
           </div>
         </div>
         <div className="comment-content">
